@@ -31,12 +31,12 @@ GIF Walkthrough:
 Vulnerability #1: Cross Site Scripting(XSS)
 
 GIF Walkthrough:
-![Green_Username_Enumeration1](https://user-images.githubusercontent.com/36207058/56153221-9fed6300-5f83-11e9-8523-5b0412cc0a23.gif)
+![GreenXSS](https://user-images.githubusercontent.com/36207058/56153241-abd92500-5f83-11e9-8809-661e4c78c549.gif)
 
 Vulnerability #2: Green_User_Enumeration: In web-application can perfroam to give hints for user exits or not in green User_Enumeration.
 
 GIF Walkthrough:
-![GreenXSS](https://user-images.githubusercontent.com/36207058/56153241-abd92500-5f83-11e9-8809-661e4c78c549.gif)
+![Green_Username_Enumeration1](https://user-images.githubusercontent.com/36207058/56153221-9fed6300-5f83-11e9-8523-5b0412cc0a23.gif)
 
 
 ## Red
