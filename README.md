@@ -54,5 +54,5 @@ GIF Walkthrough:
 
 ## Notes
 
-Describe any challenges encountered while doing the work
+Week 9 project: i had very some of the topic got challenging.(6 to 9)
 
